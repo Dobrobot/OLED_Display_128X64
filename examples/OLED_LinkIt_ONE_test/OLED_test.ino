@@ -1,6 +1,8 @@
 #include <Wire.h>
 #include <SeeedOLED.h>
 
+// works with Arduino UNO R3 too
+
 #ifndef LED_BUILTIN
 // LinkIt ONE
 #define LED_BUILTIN 13
